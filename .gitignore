@@ -161,3 +161,5 @@ cython_debug/
 
 # ignore the dataset folder
 data/
+# ignore the kaggle credentials file
+kaggle.json
